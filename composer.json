@@ -1,0 +1,12 @@
+{
+    "require": {
+        "fzaninotto/faker": "^1.8",
+        "pda/pheanstalk": "^3.2",
+        "thingengineer/mysqli-database-class": "dev-master",
+        "vlucas/phpdotenv": "^2.5",
+        "predis/predis": "*"
+    },
+    "autoload": {
+        "psr-4": {"App\\": "\\"}
+    }
+}
